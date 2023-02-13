@@ -30,7 +30,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Challenges
 
-If you want you can [view my profile](https://www.frontendmentor.io/profile/Ciensprog) in Frontend Mentor with my all challenges or if you prefer this is my list of challenges completed:
+If you want you can [view my profile](https://www.frontendmentor.io/profile/Ciensprog) in Frontend Mentor with my all challenges or if you prefer this is my list of completed challenges:
 
 ### Newbie
 
