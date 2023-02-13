@@ -34,8 +34,8 @@ If you want you can [view my profile](https://www.frontendmentor.io/profile/Cien
 
 ### Newbie
 
-- [QR Code Component](https://ciensprog.github.io/FM-001-QR-code-component/) - [Solution](https://www.frontendmentor.io/solutions/qr-code-component-jleqdwHF8k) | [Github](https://github.com/Ciensprog/FM-001-QR-code-component)
-- [Product Preview Card Component](https://ciensprog.github.io/FM-002-Product-Preview-Card-Component/) - [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-riJ8h4-u8Z) | [Github](https://github.com/Ciensprog/FM-002-Product-Preview-Card-Component)
+- [QR Code Component](https://ciensprog.github.io/FM-001-QR-code-component/) - [Solution](https://www.frontendmentor.io/solutions/qr-code-component-jleqdwHF8k) | [Github](https://github.com/Ciensprog/FM-001-QR-code-component) `React`
+- [Product Preview Card Component](https://ciensprog.github.io/FM-002-Product-Preview-Card-Component/) - [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-riJ8h4-u8Z) | [Github](https://github.com/Ciensprog/FM-002-Product-Preview-Card-Component) `React`
 
 ### Junior
 
