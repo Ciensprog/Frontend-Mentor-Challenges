@@ -34,22 +34,25 @@ If you want you can [view my profile](https://www.frontendmentor.io/profile/Cien
 
 ### Newbie
 
-- [QR Code Component](https://ciensprog.github.io/FM-001-QR-code-component/) - [Solution](https://www.frontendmentor.io/solutions/qr-code-component-jleqdwHF8k) | [Github](https://github.com/Ciensprog/FM-001-QR-code-component) `React`
-- [Product Preview Card Component](https://ciensprog.github.io/FM-002-Product-Preview-Card-Component/) - [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-riJ8h4-u8Z) | [Github](https://github.com/Ciensprog/FM-002-Product-Preview-Card-Component) `React`
-- [NFT Preview Card Component](https://ciensprog.github.io/FM-003-NFT-Preview-Card-Component/) - [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-Nnnuw1iNrX) | [Github](https://github.com/Ciensprog/FM-003-NFT-Preview-Card-Component) `React`
+<!-- prettier-ignore -->
+| Challenge (Preview) | Repository | Solution Page (Frontend Mentor) |
+| --- | --- | --- |
+| [QR Code Component](https://ciensprog.github.io/FM-001-QR-code-component/) | [React](https://github.com/Ciensprog/FM-001-QR-code-component) | [Go to solution](https://www.frontendmentor.io/solutions/qr-code-component-jleqdwHF8k) |
+| [Product Preview Card Component](https://ciensprog.github.io/FM-002-Product-Preview-Card-Component/) | [React](https://github.com/Ciensprog/FM-002-Product-Preview-Card-Component) | [Go to solution](https://www.frontendmentor.io/solutions/product-preview-card-component-riJ8h4-u8Z) |
+| [NFT Preview Card Component](https://ciensprog.github.io/FM-003-NFT-Preview-Card-Component/) | [React](https://github.com/Ciensprog/FM-003-NFT-Preview-Card-Component) | [Go to solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-Nnnuw1iNrX) |
 
 ### Junior
 
-- _Coming soon..._
+_Coming soon..._
 
 ### Intermediate
 
-- _Coming soon..._
+_Coming soon..._
 
 ### Advanced
 
-- _Coming soon..._
+_Coming soon..._
 
 ### Guru
 
-- _Coming soon..._
+_Coming soon..._
