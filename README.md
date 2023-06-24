@@ -42,6 +42,7 @@ If you want you can [view my profile](https://www.frontendmentor.io/profile/Cien
 | [NFT Preview Card Component](https://ciensprog.github.io/FM-003-NFT-Preview-Card-Component/) | [React](https://github.com/Ciensprog/FM-003-NFT-Preview-Card-Component) | [Go to solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-Nnnuw1iNrX) |
 | [Interactive Rating Component](https://ciensprog.github.io/FM-004-Interactive-Rating-Component/) | [React](https://github.com/Ciensprog/FM-004-Interactive-Rating-Component) | [Go to solution](https://www.frontendmentor.io/solutions/interactive-rating-component-SgpEUFftS-) |
 | [Profile Card Component](https://ciensprog.github.io/FM-005-Profile-Card-Component/) | [React](https://github.com/Ciensprog/FM-005-Profile-Card-Component) | [Go to solution](https://www.frontendmentor.io/solutions/profile-card-component-UycOGfQO5Q) |
+| [Results Summary Component](https://ciensprog.github.io/FM-006-Results-Summary-Component/) | [React](https://github.com/Ciensprog/FM-006-Results-Summary-Component) | [Go to solution](https://www.frontendmentor.io/solutions/results-summary-component-ngQPa1Kef5) |
 
 ### Junior
 
