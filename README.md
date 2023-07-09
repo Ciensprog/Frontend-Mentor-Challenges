@@ -45,6 +45,7 @@ If you want you can [view my profile](https://www.frontendmentor.io/profile/Cien
 | [Results Summary Component](https://ciensprog.github.io/FM-006-Results-Summary-Component/) | [React](https://github.com/Ciensprog/FM-006-Results-Summary-Component) | [Go to solution](https://www.frontendmentor.io/solutions/results-summary-component-ngQPa1Kef5) |
 | [Order Summary Component](https://ciensprog.github.io/FM-007-Order-Summary-Component/) | [React](https://github.com/Ciensprog/FM-007-Order-Summary-Component) | [Go to solution](https://www.frontendmentor.io/solutions/order-summary-component-9Pmp9NMGMF) |
 | [Article Preview Component](https://ciensprog.github.io/FM-008-Article-Preview-Component/) | [React](https://github.com/Ciensprog/FM-008-Article-Preview-Component) | [Go to solution](https://www.frontendmentor.io/solutions/article-preview-component-jE08Y4LMR1) |
+| [3-Column Preview Card Component](https://ciensprog.github.io/FM-009-3-Column-Preview-Card-Component/) | [React](https://github.com/Ciensprog/FM-009-3-Column-Preview-Card-Component) | [Go to solution](https://www.frontendmentor.io/solutions/3column-preview-card-component-O-PDM9bFO6) |
 
 ### Junior
 
