@@ -24,10 +24,10 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### Built with
 
 - Semantic HTML5 markup
-- [Astro](https://astro.build) - All-in-one web framework designed for speed
-- [React](https://reactjs.org) - JS library
-- [Vite](https://vitejs.dev) - Frontend Tooling
-- [Tailwindcss](https://tailwindcss.com) - Utility-first CSS Framework
+- [Astro](https://astro.build) - Astro is an all-in-one web framework for building fast, content-focused websites
+- [React](https://reactjs.org) - The library for web and native user interfaces
+- [Tailwindcss](https://tailwindcss.com) - An utility-first CSS framework packed with classes
+- [Vite](https://vitejs.dev) - Next Generation Frontend Tooling
 
 ## Challenges
 
