@@ -36,7 +36,7 @@ If you want you can [view my profile](https://www.frontendmentor.io/profile/Cien
 ### Newbie
 
 <!-- prettier-ignore -->
-| Challenges | <a href="https://astro.build"><img src="https://skillicons.dev/icons?theme=dark&i=astro" height="30" width="30" alt="Astro" /><br />Astro</a> | <a href="https://react.dev"><img src="https://skillicons.dev/icons?theme=dark&i=react" height="30" width="30" alt="React" /><br />React</a> |
+| Challenge | <a href="https://astro.build"><img src="https://skillicons.dev/icons?theme=dark&i=astro" height="30" width="30" alt="Astro" /><br />Astro</a> | <a href="https://react.dev"><img src="https://skillicons.dev/icons?theme=dark&i=react" height="30" width="30" alt="React" /><br />React</a> |
 | --- | :---: | :---: |
 | [QR Code Component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) | [Preview](https://ciensprog.github.io/FM-001-QR-Code-Component-With-Astro/) • [Repository](https://github.com/Ciensprog/FM-001-QR-Code-Component-With-Astro) • [Solution](https://www.frontendmentor.io/solutions/qr-code-component-with-astro-kT5EJ5nacW) | [Preview](https://ciensprog.github.io/FM-001-QR-code-component/) • [Repository](https://github.com/Ciensprog/FM-001-QR-code-component) • [Solution](https://www.frontendmentor.io/solutions/qr-code-component-jleqdwHF8k) |
 | [Product Preview Card Component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa) |  | [Preview](https://ciensprog.github.io/FM-002-Product-Preview-Card-Component/) • [Repository](https://github.com/Ciensprog/FM-002-Product-Preview-Card-Component) • [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-riJ8h4-u8Z) |
